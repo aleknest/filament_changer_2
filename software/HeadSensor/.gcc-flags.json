@@ -1,0 +1,8 @@
+{
+  "execPath": "/home/aleknest/.platformio/packages/toolchain-atmelavr/bin/avr-g++",
+  "gccDefaultCFlags": "-fsyntax-only -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=40000 -DARDUINO_AVR_MEGA2560 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10805 -D__AVR_ATmega2560__",
+  "gccDefaultCppFlags": "-fsyntax-only -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=40000 -DARDUINO_AVR_MEGA2560 -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10805 -D__AVR_ATmega2560__",
+  "gccErrorLimit": 15,
+  "gccIncludePaths": "/home/aleknest/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src,/home/aleknest/.platformio/packages/framework-arduinoavr/cores/arduino,/home/aleknest/.platformio/packages/framework-arduinoavr/variants/mega,/home/aleknest/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src,/home/aleknest/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src,/home/aleknest/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src,/home/aleknest/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src,/home/aleknest/.platformio/packages/toolchain-atmelavr/avr/include,/home/aleknest/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed,/home/aleknest/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include,/home/aleknest/.platformio/packages/tool-unity",
+  "gccSuppressWarnings": false
+}
